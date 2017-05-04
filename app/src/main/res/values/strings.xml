@@ -4,6 +4,10 @@
     <string name="day01_values2">输入电话号码</string>
     <string name="day01_values3">拨打电话</string>
     <string name="day01_values4">发送短信</string>
+    <string name="day01_values5">第一种点击事件的写法</string>
+    <string name="day01_values6">第二种点击事件的写法</string>
+    <string name="day01_values7">第三种点击事件的写法</string>
+    <string name="day01_values8">第四种点击事件的写法</string>
 
     <!-- 主界面列表 -->
     <array name="Main">

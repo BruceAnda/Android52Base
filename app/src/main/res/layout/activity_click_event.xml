@@ -10,23 +10,23 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="click"
-        android:text="第一个种点击事件的写法" />
+        android:text="@string/day01_values5" />
 
     <Button
         android:id="@+id/btn_click_two"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="第二种点击事件的写法" />
+        android:text="@string/day01_values6" />
 
     <Button
         android:id="@+id/btn_click_three"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="第三种点击事件的写法" />
+        android:text="@string/day01_values7" />
 
     <Button
         android:id="@+id/btn_click_four"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="第四种点击事件的写法" />
+        android:text="@string/day01_values8" />
 </LinearLayout>
